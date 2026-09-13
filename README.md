@@ -1,6 +1,5 @@
 # Remote-Controlled Gesture Robot
 
-![Robot]("C:\Users\david21\Downloads\WhatsApp Image 2026-09-12 at 2.16.31 PM.jpeg")
 
 This project implements a **wireless gesture-controlled robot**, where the user controls the robot's movement using a glove equipped with an ESP32 and an accelerometer. Communication between the glove and the robot is achieved using **ESP-NOW**, enabling low-latency, peer-to-peer data transmission without WiFi pairing.
 
