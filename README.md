@@ -1,6 +1,6 @@
 # Remote-Controlled Gesture Robot
 
-![Robot](robot1.jpeg)
+![Robot](robot1.jpeg) ![Robot2](robot2.jpeg) ![Robot3](robot3.jpeg)
 This project implements a **wireless gesture-controlled robot**, where the user controls the robot's movement using a glove equipped with an ESP32 and an accelerometer. Communication between the glove and the robot is achieved using **ESP-NOW**, enabling low-latency, peer-to-peer data transmission without WiFi pairing.
 
 The robot itself uses another ESP32, an L298N dual H-bridge driver module, and two DC motors to achieve differential steering. Future improvements include replacing the L298N with custom-built H-bridge circuits using MOSFETs for increased efficiency and PWM-based motor speed control.
